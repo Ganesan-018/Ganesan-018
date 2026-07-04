@@ -1,3 +1,12 @@
+<div align="center">
+<!-- Lofi banner image -->
+<img src="https://camo.githubusercontent.com/a8e9f138b6b1a45c52d3b048b44dad96496aae2405d0a7ef351f6f82901034dd/68747470733a2f2f66696c65732e636174626f782e6d6f652f6837337830632e6a7067" alt="Lofi Coding Banner" width="100%" style="border-radius: 12px;" />
+<br/>
+<!-- Typing animation banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Rakshitha+D+%F0%9F%8C%99;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;" alt="Typing SVG" />
+<br/>
+
+
 # 💫 About Me:
 I'm currently working on the Machine Learning Projects. 
 
